@@ -1,0 +1,172 @@
+{
+	"pages": {
+		"/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Home",
+			"page_title" : "Home",
+			"hero_image" : "",
+			"type_slug" : "home"
+		},
+		"/about/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "About",
+			"page_title" : "About",
+			"hero_image" : "/_assets/img/596767998.jpg",
+			"type_slug" : "interior"
+		},
+		"/about/leadership/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Leadership - About ",
+			"page_title" : "Leadership",
+			"hero_image" : "/_assets/img/596767998.jpg",
+			"type_slug" : "interior"
+		},
+		"/about/history/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "History ",
+			"page_title" : "History",
+			"hero_image" : "/_assets/img/596767998.jpg",
+			"type_slug" : "interior"
+		},
+		"/about/innovation/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "External Innovation",
+			"page_title" : "External Innovation",
+			"hero_image" : "/_assets/img/596767998.jpg",
+			"type_slug" : "interior"
+		},
+		"/about/contact/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Contact ",
+			"page_title" : "Contact",
+			"hero_image" : "/_assets/img/596767998.jpg",
+			"type_slug" : "interior"
+		},
+		"/science/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Our Science ",
+			"page_title" : "Our Science",
+			"hero_image" : "/_assets/img/695230504.jpg",
+			"type_slug" : "interior"
+		},
+		"/science/targeting/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Targeting ",
+			"page_title" : "Targeting",
+			"hero_image" : "/_assets/img/695230504.jpg",
+			"type_slug" : "interior"
+		},
+		"/science/targeting/stat/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "STAT",
+			"page_title" : "STAT",
+			"hero_image" : "/_assets/img/695230504.jpg",
+			"type_slug" : "interior"
+		},
+		"/science/targeting/stress/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Stress",
+			"page_title" : "Stress",
+			"hero_image" : "/_assets/img/695230504.jpg",
+			"type_slug" : "interior"
+		},
+		"/science/wt1/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "WT1",
+			"page_title" : "WT1",
+			"hero_image" : "/_assets/img/695230504.jpg",
+			"type_slug" : "interior"
+		},
+		"/science/resources/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Resources",
+			"page_title" : "Scientific Resources",
+			"hero_image" : "/_assets/img/695230504.jpg",
+			"type_slug" : "interior"
+		},
+		"/pipeline/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Our Pipeline",
+			"page_title" : "Our Pipeline",
+			"hero_image" : "/_assets/img/538206899.jpg",
+			"type_slug" : "interior"
+		},
+		"/pipeline/canstem303c-trial/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Trial",
+			"page_title" : "Trial",
+			"hero_image" : "/_assets/img/538206899.jpg",
+			"type_slug" : "interior"
+		},
+		"/pipeline/wizard201g-trial/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Trial",
+			"page_title" : "Trial",
+			"hero_image" : "/_assets/img/538206899.jpg",
+			"type_slug" : "interior"
+		},
+		"/pipeline/publications/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Publications",
+			"page_title" : "Publications",
+			"hero_image" : "/_assets/img/538206899.jpg",
+			"type_slug" : "interior"
+		},
+		"/pipeline/resources/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Resources",
+			"page_title" : "Resources",
+			"hero_image" : "/_assets/img/538206899.jpg",
+			"type_slug" : "interior"
+		},
+		"/news-and-media/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "News & Media",
+			"page_title" : "News & Media",
+			"hero_image" : "/_assets/img/photo-1516618317270-b99d1715c58d.jpg",
+			"type_slug" : "interior"
+		},
+		"/careers/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Careers",
+			"page_title" : "Careers",
+			"hero_image" : "/_assets/img/861164910.jpg",
+			"type_slug" : "interior"
+		},
+		"/careers/current-opportunities/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Current Opportunities",
+			"page_title" : "Current Opportunities",
+			"hero_image" : "/_assets/img/861164910.jpg",
+			"type_slug" : "interior"
+		},
+		"/privacy-notice/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Privacy Notice",
+			"page_title" : "Privacy Notice",
+			"hero_image" : "/_assets/img/photo-1516618317270-b99d1715c58d.jpg",
+			"type_slug" : "interior"
+		},
+		"/terms-of-use/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Terms of Use",
+			"page_title" : "Terms of Use",
+			"hero_image" : "/_assets/img/photo-1516618317270-b99d1715c58d.jpg",
+			"type_slug" : "interior"
+		},
+		"/page-not-found/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Page Not Found",
+			"page_title" : "Page Not Found",
+			"hero_image" : "/_assets/img/photo-1516618317270-b99d1715c58d.jpg",
+			"type_slug" : "interior"
+		},
+		"/style-guide/index.html" : {
+			"meta_description" : "",
+			"meta_title" : "Style Guide",
+			"page_title" : "Style Guide",
+			"hero_image" : "/_assets/img/photo-1516618317270-b99d1715c58d.jpg",
+			"type_slug" : "interior"
+		}
+	}
+}

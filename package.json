@@ -1,0 +1,22 @@
+{
+  "name": "website.com",
+  "version": "3.0.0",
+  "description": "",
+  "author": "willtucker",
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.6.1",
+    "gulp-sass": "^2.2.0",
+    "gulp-tap": "^1.0.1",
+    "gulp-uglify": "^1.2.0",
+    "gulp-zip": "^3.0.2"
+  }
+}
